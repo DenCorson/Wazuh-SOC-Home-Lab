@@ -64,3 +64,11 @@ Ubuntu Server (Wazuh Manager)
 - Wazuh Agent Deployment
 - Security Documentation
 - Troubleshooting
+
+## Project Documentation
+
+| Part | Description | Status |
+|------|-------------|--------|
+| 📄 [Part 1](Part%201%20-%20Creating%20the%20Windows%2011%20Victim%20VM.pdf) | Creating the Windows 11 Victim VM | Complete |
+| 📄 [Part 2](Part%202%20-%20Installing%20Sysmon%20Configuration%20on%20Windows%20Endpoint.pdf) | Sysmon Deployment | Complete |
+| 📄 [Part 3](Part%203%20Wazuh%20Deployment%20and%20Agent%20Enrollment.pdf) | Wazuh Deployment & Agent Enrollment | Complete |
