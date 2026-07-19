@@ -49,7 +49,7 @@ Ubuntu Server (Wazuh Manager)
  Part 1 | Lab Planning 
  Part 2 | Sysmon Deployment 
  Part 3 | Wazuh Deployment & Agent Enrollment 
- Part 4  Security Event Analysis 
+ Part 4 | Kali Linux Deployment and Network Reconnaissance
 
 ---
 
@@ -72,3 +72,5 @@ Ubuntu Server (Wazuh Manager)
 | 📄 [Part 1](Part%201%20-%20Creating%20the%20Windows%2011%20Victim%20VM.pdf) | Creating the Windows 11 Victim VM | Completed |
 | 📄 [Part 2](Part%202%20-%20Installing%20Sysmon%20Configuration%20on%20Windows%20Endpoint.pdf) | Sysmon Deployment | Completed |
 | 📄 [Part 3](Part%203%20Wazuh%20Deployment%20and%20Agent%20Installation.pdf) | Wazuh Deployment & Agent Enrollment | Completed |
+| 📄 [Part 4](Part%204%20Kali%20Linux%20Deployment%20and%20Network%20Reconnaissance.pdf) | Kali Linux Deployment and Network Reconnaissance | In-work |
+
